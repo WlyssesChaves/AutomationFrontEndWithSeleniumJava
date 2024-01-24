@@ -1,8 +1,6 @@
-# desafioCyber
+# AutomationWithSelenium
 
-Desafio realizado para a seleção de Analista de Qualidade.
-
-O desafio consiste em automatizar o fluxo abaixo:
+A automação consiste em automatizar o fluxo abaixo:
 
 1. Cenário:
 Automatizar o formulário presente ao acessar o menu de navegação
@@ -16,6 +14,3 @@ de nascimento nos dois campos.
 4. Cenário:
 No menu de navegação “Widgets > Slider” você deve fazer com que sua
 automação movimente 50% da barra. 
-
-
-OBS: O desafio foi desenvolvido utilizando o Selenium webdriver com Java.
